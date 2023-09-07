@@ -78,16 +78,23 @@ I am currently studying Physics and Computer Science at Durham University under 
     > ![Gifdemo](https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/Images/General-results.png)
     > 
     >  The task was to generate realisitic and diverse images (using the FFHQ dataset) given severe hardware constraints and then to interpolate smoothly between these images. To do this, This paper proposes a VQVAE[8] architecture in combination with a transformer trained on the FFHQ dataset. This model utilizes convolutions to learn a context rich vocabulary capturing the local interactions of the image pixels, and uses a transformer architecture to learn complex long term relationships between these visual features to synthesise high resolution images.
+    >
     > Interpolations
+    >
     > ![inter_1](https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/Images/Interpolations.png)
+    >
     > Best Generations
+    >
     > ![inter_2](https://github.com/kkap250901/Image-generative-models-VQGAN/blob/main/Images/best-results.png)
 
 
 * Reinforcement Learning - [TQC](https://github.com/kkap250901/Reinforcement-learning-bipedal-walker): 93/100. [PyTorch]
     > Easy Environment Performance
+    >
     >![Gifdemo](https://github.com/kkap250901/Reinforcement-learning-bipedal-walker/blob/main/Results/ccbd24-agent-video%2Cepisode%3D1501%2Cscore%3D334.gif)
+    >
     > Hard Environment Performance
+    >
     >![Gifdemo_2](https://github.com/kkap250901/Reinforcement-learning-bipedal-walker/blob/main/Results/ccbd24-agent-hardcore-video%2Cepisode%3D2526%2Cscore%3D312.gif)
 
     > We were tasked with creating a Reinforcement Learning agent to complete the Bipedal Walker gym hard and easy environments. To do this, this paper explores the possible algorithms which could be used to solve the BipedalWalker-v3 environments. From our study, it is found that Truncated Quantile Critic is successful at solving the easy environment with consistent mean rewards greater than 300 over the last 100 episodes. Although, we find that despite trying different parameters, we are not able to solve the Bipedal Hardcore environment according to Open AI’s definition. However, we are able to consistently get mean rewards greater than 270 over the span of 100 episodes.
