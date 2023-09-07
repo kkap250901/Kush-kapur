@@ -159,15 +159,14 @@ I am currently studying Physics and Computer Science at Durham University under 
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/kush-kapur/).
 
 ## Balyasny Asset Management
-Data Scientist (Sector Data Analayst)
+<img src="https://events.irmagazine.com/breakfastbrief/wp-content/uploads/sites/242/2022/11/BAM-logo-not-official.jpeg" alt="Balyasny Asset Management Logo" width="200" height="100">
+Data Scientist (Sector Data Analyst)
 3-month internship in one of the largest multi-strategy hedge funds with an AUM of $20 billion
-* Developed a scalable general revenue prediction model using IMS, Symphony, and Actuals data, incorporating time series
-forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
+* Developed a scalable general revenue prediction model using IMS, Symphony, and Actuals data, incorporating time series forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
 * This model achieved an average mean absolute percentage error of 8% in the test case for 9 drugs.
-* Cleaned and processed Cirium and web scraped flight tracking data, achieving 100% Airbus coverage. Employed XGBoost for
-forecasting Airbus monthly delivery for Industrials PM teams, with a minor 5-delivery deviation in July 2023.
-* Pioneered a centralized Large Language Model (using OpenAI API) product for SDAs, automating data exploration, dashboard
-creation, and KPI forecasting, streamlining a time-intensive process.
+* Cleaned and processed Cirium and web scraped flight tracking data, achieving 100% Airbus coverage. Employed XGBoost for forecasting Airbus monthly delivery for Industrials PM teams, with a minor 5-delivery deviation in July 2023.
+* Pioneered a centralized Large Language Model (using OpenAI API) product for SDAs, automating data exploration, dashboard creation, and KPI forecasting, streamlining a time-intensive process.
+
 
 
 ## Amtex Systems 
