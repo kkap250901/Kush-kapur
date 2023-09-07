@@ -28,7 +28,7 @@ If you would like to find out anything more (or less, as this page is quite deta
     <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="48" title="NumPy"/>
 </div></center>
 
-Add Docker and kubernetes
+
 ### Intermediate:
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
@@ -46,12 +46,11 @@ Add Docker and kubernetes
 
 
 ### Basic:
-Add C# Here change the icon 
 <center><div>
     <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML-5"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="C#"/>
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-c-sharp-computer-programming-flaticons-lineal-color-flat-icons.png" title="C#"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
     <img src="https://img.icons8.com/color/48/000000/haskell.png" title="Haskell"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow & TensorFlow.js"/>  
