@@ -40,8 +40,7 @@ Add Docker and kubernetes
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB & Mongoose"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-    <img src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" title="Docker"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png" title="Kubernetes"/>
+    <img src="https://www.clipartmax.com/png/middle/146-1469937_background-kubernetes-logo.png" title="Kubernetes & Docker"/>
 </div></center>
 
 
