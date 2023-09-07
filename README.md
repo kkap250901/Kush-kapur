@@ -98,6 +98,10 @@ I am currently studying Physics and Computer Science at Durham University under 
 
     > We were tasked with creating a Reinforcement Learning agent to complete the Bipedal Walker gym hard and easy environments. To do this, this paper explores the possible algorithms which could be used to solve the BipedalWalker-v3 environments. From our study, it is found that Truncated Quantile Critic is successful at solving the easy environment with consistent mean rewards greater than 300 over the last 100 episodes. Although, we find that despite trying different parameters, we are not able to solve the Bipedal Hardcore environment according to Open AI’s definition. However, we are able to consistently get mean rewards greater than 270 over the span of 100 episodes.
 
+* Solving Graph colouring problem using natural hueristic - [natural-computing-alg](https://github.com/kkap250901/Natural-computing-algorithms): 74/100.
+    > 
+    > We were asked to implement the V-detector algorithm for negative selection, and optimise to find the minima of a function using a natural hueristic algortihm and using a natural heuristic algorithm to solve a discrete NP-hard problem. To do this first I implemented the bee colony algorithm as its a continous algorithm. I then adapted this algorithm to the discrete graph colouring problem.
+
 * Internship Reasearch Project - [sentiment-macro-stock-prediction](https://github.com/kkap250901/Stock-Prediction). [Pytorch]
     > 
     > During my internship at Amtex where I was working with Lazard Asset Management quant division I created a forecast model which scrapes data from Financial Times, Reddit, Twitter and gets macro economic data at a daily level. We use FinBERT(a pre trained hugging face NLP model) for sentiment analysis. Using all these features and a transformer model we make a prediciton for the next day price of the equity. We make this very general such that you only need to define the Equity's name.
