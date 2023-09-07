@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kush, an aspiring Data Sceintist and Quant Researcher!
+# Hi there 👋 I'm Kush, an aspiring Data Scientist and Quant Researcher!
 
 ### I am current completing my Integrated Masters in Physics and Computer Science from Durham University
 > Msci Physics and Computer Science - in progress (with a 1st in Years 1,2 and 3)
