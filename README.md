@@ -159,7 +159,7 @@ I am currently studying Physics and Computer Science at Durham University under 
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/kush-kapur/).
 
 ## Balyasny Asset Management
-<img src="https://events.irmagazine.com/breakfastbrief/wp-content/uploads/sites/242/2022/11/BAM-logo-not-official.jpeg" alt="Balyasny Asset Management Logo" width="200" height="100">
+<img src="https://events.irmagazine.com/breakfastbrief/wp-content/uploads/sites/242/2022/11/BAM-logo-not-official.jpeg" alt="Balyasny Asset Management Logo" width="200" height="200">
 Data Scientist (Sector Data Analyst)
 3-month internship in one of the largest multi-strategy hedge funds with an AUM of $20 billion
 * Developed a scalable general revenue prediction model using IMS, Symphony, and Actuals data, incorporating time series forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
