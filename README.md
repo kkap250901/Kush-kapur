@@ -31,17 +31,17 @@ If you would like to find out anything more (or less, as this page is quite deta
 Add Docker and kubernetes
 ### Intermediate:
 <center><div>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/>
+    <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React.js"/>
     <img src="https://ionicframework.com/img/meta/logo.png" width="48" title="Ionic (React)"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB & Mongoose"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-    <img src="https://img.icons8.com/fluency/48/000000/c.png" title="C"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="Docker"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="Kubernetes"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
+    <img src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" title="Docker"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png" title="Kubernetes"/>
 </div></center>
 
 
@@ -64,14 +64,14 @@ I am currently studying Physics and Computer Science at Durham University under 
 
 ## Third Year 🥉 - 1st (76/100):
   
-* N-Body Solver - [N-Body-solver](https://github.com/kkap250901/N-Body-Solver)
+* N-Body Solver - [N-Body-solver](https://github.com/kkap250901/N-Body-Solver): 85/100. [C++]
     >
     > We were tasked with solving the N-Body problem. To do this I Implemented Linked Cell algorithm and Euler's method for gravitational and molecular forces. Optimized code with vectorization and parallelization using OpenMP pragma, measured scalability with strong scaling. This was visualised using paraview.
 
-* Recommender Systems - [BST-Recommender-System](https://github.com/kkap250901/Movie-Reccomender-System): 81/100.
+* Recommender Systems - [BST-Recommender-System](https://github.com/kkap250901/Movie-Reccomender-System): 81/100. [Pytorch]
     > ![Gifdemo](https://github.com/kkap250901/Movie-Reccomender-System/blob/main/user-video-gif.gif)
     >
-    > I implemented two state-of-the-art deep model-based recommender systems (RS), a novel content-collaborative hybrid RS and a solely collaborative RS. These RSs foster user satisfaction in different ways; the first by capturing the complex user-item interaction structures and the second that exploits temporal data. To compliment these RSs I created a fully-fledged UI where user can log in, register, submit new reviews and retrieve personalized movie recommendations using our two recommender systems. Due to being highly optimized, the recommender can retrain itself almost instantly when a user submits a new review or on alteration to a prediction which allows the user to interact with the recommender and see the recommendations change in real-time.
+    > I implemented two state-of-the-art deep model-based recommender systems (RS), a novel content-collaborative hybrid RS using the Transformer architecture and a solely collaborative RS. These RSs foster user satisfaction in different ways; the first by capturing the complex user-item interaction structures and the second that exploits temporal data. To compliment these RSs I created a fully-fledged UI where user can log in, register, submit new reviews and retrieve personalized movie recommendations using our two recommender systems. Due to being highly optimized, the recommender can retrain itself almost instantly when a user submits a new review or on alteration to a prediction which allows the user to interact with the recommender and see the recommendations change in real-time.
 
 
 * Deep Learning - [VQGAN](https://github.com/kkap250901/Image-generative-models-VQGAN): 93/100. [PyTorch]
