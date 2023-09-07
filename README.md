@@ -163,9 +163,10 @@ I am currently studying Physics and Computer Science at Durham University under 
 
 Data Scientist (Sector Data Analyst)
 3-month internship in one of the largest multi-strategy hedge funds with an AUM of $20 billion
-* Developed a scalable general revenue prediction model using IMS, Symphony, and Actuals data, incorporating time series forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
+* Developed a scalable general revenue prediction model using proprietary data, incorporating time series forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
 * This model achieved an average mean absolute percentage error of 8% in the test case for 9 drugs.
-* Cleaned and processed Cirium and web scraped flight tracking data, achieving 100% Airbus coverage. Employed XGBoost for forecasting Airbus monthly delivery for Industrials PM teams, with a minor 5-delivery deviation in July 2023.
+* Cleaned and processed Cirium and web scraped flight tracking data, achieving 99% Airbus planes coverage. 
+* Employed XGBoost for forecasting Airbus monthly delivery for Industrials PM teams, with a minor 5-delivery deviation in July 2023.
 * Pioneered a centralized Large Language Model (using OpenAI API) product for SDAs, automating data exploration, dashboard creation, and KPI forecasting, streamlining a time-intensive process.
 
 
@@ -198,9 +199,9 @@ pricing accuracy.
 > <img src="https://media.licdn.com/dms/image/C560BAQG8Tx7Bo2viXA/company-logo_200_200/0/1622820625551?e=2147483647&v=beta&t=6cZv_bFhzOkZeR5ir4_0bQ0bahLosAFN97Lj4PwDTdI" height="96"/>
 
 Lead Developer and Co-Founder
-• Led a team of 4 computer scientists, delivering client-driven projects.
-• Designed a scalping bot for driving instructors, doubling the client's driving test booking success rate.
-• Spearheaded and developed projects using Python, PHP, SQL, and Vue.js.
+* Led a team of 4 computer scientists, delivering client-driven projects.
+* Designed a scalping bot for driving instructors, doubling the client's driving test booking success rate.
+* Spearheaded and developed projects using Python, PHP, SQL, and Vue.js.
 
 # Prior Education 📚:
 * GCSEs: 19 A*s/9s and 4 As
