@@ -159,7 +159,8 @@ I am currently studying Physics and Computer Science at Durham University under 
 > For more details on my roles, and non-software-engineering-specific experiences, see my [LinkedIn](https://www.linkedin.com/in/kush-kapur/).
 
 ## Balyasny Asset Management
-<img src="https://events.irmagazine.com/breakfastbrief/wp-content/uploads/sites/242/2022/11/BAM-logo-not-official.jpeg" alt="Balyasny Asset Management Logo" width="200" height="200">
+> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Balyasny_Asset_Management.png" height="96"/>
+
 Data Scientist (Sector Data Analyst)
 3-month internship in one of the largest multi-strategy hedge funds with an AUM of $20 billion
 * Developed a scalable general revenue prediction model using IMS, Symphony, and Actuals data, incorporating time series forecasting and Optuna Bayesian hyperparameter tuning for adaptability to various healthcare drugs.
@@ -169,7 +170,9 @@ Data Scientist (Sector Data Analyst)
 
 
 
-## Amtex Systems 
+## Amtex Systems
+> <img src="https://cioitdirectory.com/wp-content/uploads/2017/07/amtex-Logo-300x300.png" height="96"/>
+
 Data Scientist 
 3-month internship working for Lazard Asset Managent quant division
 * Worked with Quant team to build a stock forecasting model for major Indian equities using macro and sentiment data.
@@ -179,6 +182,8 @@ Data Scientist
 
 
 ## Verisk 
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Verisk_Analytics_Logo.svg/1280px-Verisk_Analytics_Logo.svg.png" height="96"/>
+
 Data Scientist 
 3-month internship in one of the largest Insurance pricing companies. 
 * Collaborated with product management and engineering team to understand company needs and devised solutions.
@@ -190,6 +195,8 @@ pricing accuracy.
 
 
 ## Reachcode 
+> <img src="https://media.licdn.com/dms/image/C560BAQG8Tx7Bo2viXA/company-logo_200_200/0/1622820625551?e=2147483647&v=beta&t=6cZv_bFhzOkZeR5ir4_0bQ0bahLosAFN97Lj4PwDTdI" height="96"/>
+
 Lead Developer and Co-Founder
 • Led a team of 4 computer scientists, delivering client-driven projects.
 • Designed a scalping bot for driving instructors, doubling the client's driving test booking success rate.
