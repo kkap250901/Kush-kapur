@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kush, an aspiring Data Scientist and Quant Researcher!
 
-### I am current completing my Integrated Masters in Physics and Computer Science from Durham University
-> Msci Physics and Computer Science - in progress (with a 1st in Years 1,2 and 3)
+### I Recently graduated From Durham University with a BSc
+> BSc Physics and Computer Science - First Class Honors (76%)
 
 ## Contents:
 This page contains extensive information on my skills, background and experience for any of those who are interested (this page also thereforeacts as a map to my GitHub repositories):
